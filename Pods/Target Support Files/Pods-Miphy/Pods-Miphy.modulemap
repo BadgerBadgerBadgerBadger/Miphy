@@ -1,0 +1,6 @@
+framework module Pods_Miphy {
+  umbrella header "Pods-Miphy-umbrella.h"
+
+  export *
+  module * { export * }
+}
